@@ -1,0 +1,20 @@
+c:\users\akibara\documents\visual studio 2013\Projects\Timer TIK\Timer TIK\bin\Debug\Timer TIK.exe.config
+c:\users\akibara\documents\visual studio 2013\Projects\Timer TIK\Timer TIK\bin\Debug\Timer TIK.exe
+c:\users\akibara\documents\visual studio 2013\Projects\Timer TIK\Timer TIK\bin\Debug\Timer TIK.pdb
+c:\users\akibara\documents\visual studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer TIK.csprojResolveAssemblyReference.cache
+c:\users\akibara\documents\visual studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer_TIK.frmMain.resources
+c:\users\akibara\documents\visual studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer_TIK.frmSet.resources
+c:\users\akibara\documents\visual studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer_TIK.Properties.Resources.resources
+c:\users\akibara\documents\visual studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer TIK.csproj.GenerateResource.Cache
+c:\users\akibara\documents\visual studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer TIK.exe
+c:\users\akibara\documents\visual studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer TIK.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Timer TIK\Timer TIK\bin\Debug\Timer TIK.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer TIK.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer TIK.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer TIK.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer_TIK.frmMain.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer_TIK.frmSet.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer_TIK.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Timer TIK\Timer TIK\obj\Debug\Timer TIK.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Timer TIK\Timer TIK\bin\Debug\Timer TIK.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Timer TIK\Timer TIK\bin\Debug\Timer TIK.pdb
